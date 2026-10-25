@@ -1,0 +1,12 @@
+{
+  "mqtt": {
+    "host": "MQTT_BROKER_IP",
+    "port": 1883,
+    "topic": "telemetry/#",
+    "username": "",
+    "password": ""
+  },
+  "azure": {
+    "connectionString": "HostName=YOUR_IOT_HUB.azure-devices.net;DeviceId=YOUR_GATEWAY_DEVICE_ID;SharedAccessKey=YOUR_DEVICE_KEY"
+  }
+}

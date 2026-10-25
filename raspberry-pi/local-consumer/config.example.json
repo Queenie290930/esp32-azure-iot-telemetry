@@ -1,0 +1,9 @@
+{
+  "mqtt": {
+    "host": "172.20.10.3",
+    "port": 1883,
+    "topic": "telemetry/#",
+    "username": "",
+    "password": ""
+  }
+}
